@@ -1,0 +1,187 @@
+[{
+        "active": true,
+        "categories": [
+            "Non-Vegetarian Pickles"
+        ],
+        "description": "Mutton",
+        "hsn_code": 9621,
+        "id": "1765c158-3ede-4310-976d-657937ffd235",
+        "images": null,
+        "title": "Mutton Boneless Pickle",
+        "variants": [{
+                "price": 500.0,
+                "sku": "RB_IN_NP_MBL_200",
+                "store": "IN",
+                "unit": "200 g"
+            },
+            {
+                "price": 1000.0,
+                "sku": "RB_IN_NP_MBL_450",
+                "store": "IN",
+                "unit": "450 g"
+            },
+            {
+                "price": 2000.0,
+                "sku": "RB_IN_NP_MBL_950",
+                "store": "IN",
+                "unit": "950 g"
+            },
+            {
+                "price": 6,
+                "sku": "RB_US_NP_MBL_200",
+                "store": "US",
+                "unit": "200 g"
+            }
+        ]
+    },
+    {
+        "active": true,
+        "categories": [
+            "Non-Vegetarian Pickles"
+        ],
+        "description": "Chicken",
+        "hsn_code": 9621,
+        "id": "5ea4b2dd-d815-4590-aae8-f6bb2c9ab56e",
+        "images": null,
+        "title": "Chicken Boneless Pickle",
+        "variants": [{
+                "price": 350.0,
+                "sku": "RB_IN_NP_CBL_200",
+                "store": "IN",
+                "unit": "200 g"
+            },
+            {
+                "price": 700.0,
+                "sku": "RB_IN_NP_CBL_450",
+                "store": "IN",
+                "unit": "450 g"
+            },
+            {
+                "price": 1400.0,
+                "sku": "RB_IN_NP_CBL_950",
+                "store": "IN",
+                "unit": "950 g"
+            }
+        ]
+    },
+    {
+        "active": true,
+        "categories": [
+            "Non-Vegetarian Pickles"
+        ],
+        "description": "Chicken",
+        "hsn_code": 9621,
+        "id": "83bc5c89-fdde-4d86-84db-b9ad1684df3b",
+        "images": null,
+        "title": "Chicken Kheema Pickle",
+        "variants": [{
+                "price": 350.0,
+                "sku": "RB_IN_NP_CKH_200",
+                "store": "IN",
+                "unit": "200 g"
+            },
+            {
+                "price": 700.0,
+                "sku": "RB_IN_NP_CKH_450",
+                "store": "IN",
+                "unit": "450 g"
+            },
+            {
+                "price": 1400.0,
+                "sku": "RB_IN_NP_CKH_950",
+                "store": "IN",
+                "unit": "950 g"
+            }
+        ]
+    },
+    {
+        "active": true,
+        "categories": [
+            "Non-Vegetarian Pickles"
+        ],
+        "description": "Prawns",
+        "hsn_code": 9621,
+        "id": "cd065c49-3de3-4383-90a6-1f48919113ff",
+        "images": null,
+        "title": "Prawns Pickle",
+        "variants": [{
+                "price": 450.0,
+                "sku": "RB_IN_NP_PRA_200",
+                "store": "IN",
+                "unit": "200 g"
+            },
+            {
+                "price": 900.0,
+                "sku": "RB_IN_NP_PRA_450",
+                "store": "IN",
+                "unit": "450 g"
+            },
+            {
+                "price": 1800.0,
+                "sku": "RB_IN_NP_PRA_950",
+                "store": "IN",
+                "unit": "950 g"
+            }
+        ]
+    },
+    {
+        "active": true,
+        "categories": [
+            "Non-Vegetarian Pickles"
+        ],
+        "description": "Mutton",
+        "hsn_code": 9621,
+        "id": "cf9e0727-5b1a-43bc-abe6-b3a1b9425877",
+        "images": null,
+        "title": "Mutton Kheema Pickle",
+        "variants": [{
+                "price": 500.0,
+                "sku": "RB_IN_NP_MKH_200",
+                "store": "IN",
+                "unit": "200 g"
+            },
+            {
+                "price": 1000.0,
+                "sku": "RB_IN_NP_MKH_450",
+                "store": "IN",
+                "unit": "450 g"
+            },
+            {
+                "price": 2000.0,
+                "sku": "RB_IN_NP_MKH_950",
+                "store": "IN",
+                "unit": "950 g"
+            }
+        ]
+    },
+    {
+        "active": true,
+        "categories": [
+            "Non-Vegetarian Pickles"
+        ],
+        "description": "Fish",
+        "hsn_code": 9621,
+        "id": "f570a2d5-142b-4d36-bed4-f020c005ad11",
+        "images": null,
+        "title": "Fish Boneless Pickle",
+        "variants": [{
+                "price": 400.0,
+                "sku": "RB_IN_NP_FBL_200",
+                "store": "IN",
+                "unit": "200 g"
+            },
+            {
+                "price": 800.0,
+                "sku": "RB_IN_NP_FBL_450",
+                "store": "IN",
+                "unit": "450 g"
+            },
+            {
+                "price": 1600.0,
+                "sku": "RB_IN_NP_FBL_950",
+                "store": "IN",
+                "unit": "950 g"
+            }
+        ]
+    }
+]
