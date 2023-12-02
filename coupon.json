@@ -1,0 +1,17 @@
+{
+    "affiliate_id": "SYSTEM",
+    "code": "LAUNCH20",
+    "comission": null,
+    "end": null,
+    "min_order_value": 700.0,
+    "product_discount": {
+        "type": "PERCENTAGE",
+        "value": 20.0
+    },
+    "shipping_discount": {
+        "type": "PERCENTAGE",
+        "value": 100.0
+    },
+    "start": null,
+    "store": "IN"
+}
