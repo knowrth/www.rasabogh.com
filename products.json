@@ -177,5 +177,65 @@
                 "unit": "950 g"
             }
         ]
+    },
+    {
+        "active": true,
+        "categories": [
+            "Non-Vegetarian Pickles"
+        ],
+        "description": "Select Any 3",
+        "hsn_code": 9621,
+        "id": "23cbf085-8a66-41c5-8d49-257213012e38",
+        "images": null,
+        "title": "3 Combo",
+        "variants": [{
+                "price": 1150.0,
+                "sku": "RB_IN_NP_3CO_200",
+                "store": "IN",
+                "unit": "200 g"
+            },
+            {
+                "price": 2300.0,
+                "sku": "RB_IN_NP_3CO_450",
+                "store": "IN",
+                "unit": "450 g"
+            },
+            {
+                "price": 4600.0,
+                "sku": "RB_IN_NP_3CO_950",
+                "store": "IN",
+                "unit": "950 g"
+            }
+        ]
+    },
+    {
+        "active": true,
+        "categories": [
+            "Non-Vegetarian Pickles"
+        ],
+        "description": "Select any 4",
+        "hsn_code": 9621,
+        "id": "aff317b0-22a8-4ea5-961b-0b0db92f2ee2",
+        "images": null,
+        "title": "4 Combo",
+        "variants": [{
+                "price": 1350.0,
+                "sku": "RB_IN_NP_4CO_200",
+                "store": "IN",
+                "unit": "200 g"
+            },
+            {
+                "price": 2700.0,
+                "sku": "RB_IN_NP_4CO_450",
+                "store": "IN",
+                "unit": "450 g"
+            },
+            {
+                "price": 5400.0,
+                "sku": "RB_IN_NP_4CO_950",
+                "store": "IN",
+                "unit": "950 g"
+            }
+        ]
     }
 ]
