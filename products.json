@@ -6,7 +6,7 @@
         "description": "Mutton",
         "hsn_code": 9621,
         "id": "1765c158-3ede-4310-976d-657937ffd235",
-        "images": null,
+        "images": "mutton.jpg",
         "title": "Mutton Boneless Pickle",
         "variants": [{
                 "price": 500.0,
@@ -36,7 +36,7 @@
         "description": "Chicken",
         "hsn_code": 9621,
         "id": "5ea4b2dd-d815-4590-aae8-f6bb2c9ab56e",
-        "images": null,
+        "images": "chicken.jpg",
         "title": "Chicken Boneless Pickle",
         "variants": [{
                 "price": 350.0,
@@ -66,7 +66,7 @@
         "description": "Chicken",
         "hsn_code": 9621,
         "id": "83bc5c89-fdde-4d86-84db-b9ad1684df3b",
-        "images": null,
+        "images": "chicken-keema.jpg",
         "title": "Chicken Kheema Pickle",
         "variants": [{
                 "price": 350.0,
@@ -96,7 +96,7 @@
         "description": "Prawns",
         "hsn_code": 9621,
         "id": "cd065c49-3de3-4383-90a6-1f48919113ff",
-        "images": null,
+        "images": "prawn.jpg",
         "title": "Prawns Pickle",
         "variants": [{
                 "price": 450.0,
@@ -126,7 +126,7 @@
         "description": "Mutton",
         "hsn_code": 9621,
         "id": "cf9e0727-5b1a-43bc-abe6-b3a1b9425877",
-        "images": null,
+        "images": "mutton-keema.jpg",
         "title": "Mutton Kheema Pickle",
         "variants": [{
                 "price": 500.0,
@@ -156,7 +156,7 @@
         "description": "Fish",
         "hsn_code": 9621,
         "id": "f570a2d5-142b-4d36-bed4-f020c005ad11",
-        "images": null,
+        "images": "fish.jpg",
         "title": "Fish Boneless Pickle",
         "variants": [{
                 "price": 400.0,
@@ -186,7 +186,7 @@
         "description": "Select Any 3",
         "hsn_code": 9621,
         "id": "23cbf085-8a66-41c5-8d49-257213012e38",
-        "images": null,
+        "images": "jar.jpg",
         "title": "3 Combo",
         "variants": [{
                 "price": 1150.0,
@@ -216,7 +216,7 @@
         "description": "Select any 4",
         "hsn_code": 9621,
         "id": "aff317b0-22a8-4ea5-961b-0b0db92f2ee2",
-        "images": null,
+        "images": "chicken-jar.jpg",
         "title": "4 Combo",
         "variants": [{
                 "price": 1350.0,
