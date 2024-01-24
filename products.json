@@ -57,38 +57,7 @@
                 "unit": "950 g"
             }
         ]
-    },
-    {
-        "active": true,
-        "categories": [
-            "Non-Vegetarian Pickles"
-        ],
-        "description": "Chicken",
-        "hsn_code": 9621,
-        "id": "83bc5c89-fdde-4d86-84db-b9ad1684df3b",
-        "images": "chicken-keema.jpg",
-        "title": "Chicken Kheema Pickle",
-        "variants": [{
-                "price": 350.0,
-                "sku": "RB_IN_NP_CKH_200",
-                "store": "IN",
-                "unit": "200 g"
-            },
-            {
-                "price": 700.0,
-                "sku": "RB_IN_NP_CKH_450",
-                "store": "IN",
-                "unit": "450 g"
-            },
-            {
-                "price": 1400.0,
-                "sku": "RB_IN_NP_CKH_950",
-                "store": "IN",
-                "unit": "950 g"
-            }
-        ]
-    },
-    {
+    }, {
         "active": true,
         "categories": [
             "Non-Vegetarian Pickles"
@@ -117,38 +86,7 @@
                 "unit": "950 g"
             }
         ]
-    },
-    {
-        "active": true,
-        "categories": [
-            "Non-Vegetarian Pickles"
-        ],
-        "description": "Mutton",
-        "hsn_code": 9621,
-        "id": "cf9e0727-5b1a-43bc-abe6-b3a1b9425877",
-        "images": "mutton-keema.jpg",
-        "title": "Mutton Kheema Pickle",
-        "variants": [{
-                "price": 500.0,
-                "sku": "RB_IN_NP_MKH_200",
-                "store": "IN",
-                "unit": "200 g"
-            },
-            {
-                "price": 1000.0,
-                "sku": "RB_IN_NP_MKH_450",
-                "store": "IN",
-                "unit": "450 g"
-            },
-            {
-                "price": 2000.0,
-                "sku": "RB_IN_NP_MKH_950",
-                "store": "IN",
-                "unit": "950 g"
-            }
-        ]
-    },
-    {
+    }, {
         "active": true,
         "categories": [
             "Non-Vegetarian Pickles"
@@ -237,5 +175,92 @@
                 "unit": "950 g"
             }
         ]
+    },
+    {
+        "active": true,
+        "categories": [
+            "Non-Vegetarian Pickles"
+        ],
+        "description": "Chicken",
+        "hsn_code": 9621,
+        "id": "83bc5c89-fdde-4d86-84db-b9ad1684df3b",
+        "images": "chicken-keema.jpg",
+        "title": "Chicken Kheema Pickle",
+        "variants": [{
+            "price": 1600.0,
+            "sku": "RB_IN_NP_CKH_950",
+            "store": "IN",
+            "unit": "950 g"
+        }]
+    },
+
+    {
+        "active": true,
+        "categories": [
+            "Non-Vegetarian Pickles"
+        ],
+        "description": "Mutton",
+        "hsn_code": 9621,
+        "id": "cf9e0727-5b1a-43bc-abe6-b3a1b9425877",
+        "images": "mutton-keema.jpg",
+        "title": "Mutton Kheema Pickle",
+        "variants": [{
+            "price": 2000.0,
+            "sku": "RB_IN_NP_MKH_950",
+            "store": "IN",
+            "unit": "950 g"
+        }]
+    },
+    {
+        "active": true,
+        "categories": [
+            "Non-Vegetarian Pickles"
+        ],
+        "description": "Chicken",
+        "hsn_code": 9621,
+        "id": "83bc5c89-fdde-4d86-84db-b9ad1684df3a",
+        "images": "chicken.jpg",
+        "title": "Chicken Natu Kodi Pickle",
+        "variants": [{
+            "price": 2000.0,
+            "sku": "RB_IN_NP_CNK_950",
+            "store": "IN",
+            "unit": "950 g"
+        }]
+    },
+
+    {
+        "active": true,
+        "categories": [
+            "Non-Vegetarian Pickles"
+        ],
+        "description": "Fish",
+        "hsn_code": 9621,
+        "id": "cf9e0727-5b1a-43bc-abe6-b3a1b9425876",
+        "images": "fish.jpg",
+        "title": "Korameenu Fish Pickle",
+        "variants": [{
+            "price": 2000.0,
+            "sku": "RB_IN_NP_FKM_950",
+            "store": "IN",
+            "unit": "950 g"
+        }]
+    },
+    {
+        "active": true,
+        "categories": [
+            "Sweets"
+        ],
+        "description": "Pootharekulu",
+        "hsn_code": 9621,
+        "id": "aff317b0-22a8-4ea5-961b-0b0db92f2ee3",
+        "images": "pootharekulu.jpg",
+        "title": "Pootharekulu",
+        "variants": [{
+            "price": 350.0,
+            "sku": "RB_IN_SW_PTR_200",
+            "store": "IN",
+            "unit": "10 Pieces"
+        }]
     }
 ]
