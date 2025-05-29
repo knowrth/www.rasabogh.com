@@ -1,65 +1,58 @@
 [{
         "active": true,
-        "categories": [
+        "isVeg": false,
+        "categories": [ "All",
             "Non-Vegetarian Pickles"
         ],
         "description": "Mutton",
         "hsn_code": 9621,
         "id": "1765c158-3ede-4310-976d-657937ffd235",
         "images": "mutton.jpg",
-        "title": "Mutton Boneless Pickle",
-        "variants": [{
-                "price": 500.0,
-                "sku": "RB_IN_NP_MBL_200",
-                "store": "IN",
-                "unit": "200 g"
-            },
+        "title": "Mutton Boneless/Keema Pickle",
+        "variants": [
             {
                 "price": 1000.0,
                 "sku": "RB_IN_NP_MBL_450",
                 "store": "IN",
-                "unit": "450 g"
+                "unit": "500 g"
             },
             {
-                "price": 2000.0,
+                "price": 1900.0,
                 "sku": "RB_IN_NP_MBL_950",
                 "store": "IN",
-                "unit": "950 g"
+                "unit": "1000 g"
             }
         ]
     },
     {
         "active": true,
-        "categories": [
+        "isVeg": false,
+        "categories": [ "All",
             "Non-Vegetarian Pickles"
         ],
         "description": "Chicken",
         "hsn_code": 9621,
         "id": "5ea4b2dd-d815-4590-aae8-f6bb2c9ab56e",
         "images": "chicken.jpg",
-        "title": "Chicken Boneless Pickle",
-        "variants": [{
-                "price": 350.0,
-                "sku": "RB_IN_NP_CBL_200",
-                "store": "IN",
-                "unit": "200 g"
-            },
+        "title": "Chicken Boneless/Keema Pickle",
+        "variants": [
             {
-                "price": 700.0,
+                "price": 800.0,
                 "sku": "RB_IN_NP_CBL_450",
                 "store": "IN",
-                "unit": "450 g"
+                "unit": "500 g"
             },
             {
-                "price": 1400.0,
+                "price": 1500.0,
                 "sku": "RB_IN_NP_CBL_950",
                 "store": "IN",
-                "unit": "950 g"
+                "unit": "1000 g"
             }
         ]
     }, {
         "active": true,
-        "categories": [
+        "isVeg": false,
+        "categories": [ "All",
             "Non-Vegetarian Pickles"
         ],
         "description": "Prawns",
@@ -67,28 +60,24 @@
         "id": "cd065c49-3de3-4383-90a6-1f48919113ff",
         "images": "prawn.jpg",
         "title": "Prawns Pickle",
-        "variants": [{
-                "price": 450.0,
-                "sku": "RB_IN_NP_PRA_200",
-                "store": "IN",
-                "unit": "200 g"
-            },
+        "variants": [
             {
-                "price": 900.0,
+                "price": 1000.0,
                 "sku": "RB_IN_NP_PRA_450",
                 "store": "IN",
-                "unit": "450 g"
+                "unit": "500 g"
             },
             {
-                "price": 1800.0,
+                "price": 1900.0,
                 "sku": "RB_IN_NP_PRA_950",
                 "store": "IN",
-                "unit": "950 g"
+                "unit": "1000 g"
             }
         ]
     }, {
         "active": true,
-        "categories": [
+        "isVeg": false,
+        "categories": [ "All",
             "Non-Vegetarian Pickles"
         ],
         "description": "Fish",
@@ -97,28 +86,23 @@
         "images": "fish.jpg",
         "title": "Fish Pickle",
         "variants": [{
-                "price": 400.0,
-                "sku": "RB_IN_NP_FBL_200",
-                "store": "IN",
-                "unit": "200 g"
-            },
-            {
-                "price": 800.0,
+                "price": 1000.0,
                 "sku": "RB_IN_NP_FBL_450",
                 "store": "IN",
-                "unit": "450 g"
+                "unit": "500 g"
             },
             {
-                "price": 1600.0,
+                "price": 1900.0,
                 "sku": "RB_IN_NP_FBL_950",
                 "store": "IN",
-                "unit": "950 g"
+                "unit": "1000 g"
             }
         ]
     },
     {
-        "active": true,
-        "categories": [
+        "active": false,
+        "isVeg": false,
+        "categories": [ "All",
             "Non-Vegetarian Pickles"
         ],
         "description": "Select Any 3",
@@ -147,8 +131,9 @@
         ]
     },
     {
-        "active": true,
-        "categories": [
+        "active": false,
+        "isVeg": false,
+        "categories": [ "All",
             "Non-Vegetarian Pickles"
         ],
         "description": "Select any 4",
@@ -177,8 +162,9 @@
         ]
     },
     {
-        "active": true,
-        "categories": [
+        "active": false,
+        "isVeg": false,
+        "categories": [ "All",
             "Non-Vegetarian Pickles"
         ],
         "description": "Chicken",
@@ -195,8 +181,9 @@
     },
 
     {
-        "active": true,
-        "categories": [
+        "active": false,
+        "isVeg": false,
+        "categories": [ "All",
             "Non-Vegetarian Pickles"
         ],
         "description": "Mutton",
@@ -212,8 +199,9 @@
         }]
     },
     {
-        "active": true,
-        "categories": [
+        "active": false,
+        "isVeg": false,
+        "categories": [ "All",
             "Non-Vegetarian Pickles"
         ],
         "description": "Chicken",
@@ -230,8 +218,9 @@
     },
 
     {
-        "active": true,
-        "categories": [
+        "active": false,
+        "isVeg": false,
+        "categories": [ "All",
             "Non-Vegetarian Pickles"
         ],
         "description": "Fish",
@@ -248,7 +237,209 @@
     },
     {
         "active": true,
-        "categories": [
+        "isVeg": true,
+        "categories": [ "All",
+            "Vegetarian Pickles"
+        ],
+        "description": "Avakai",
+        "hsn_code": 9621,
+        "id": "1765c158-3ede-4310-976d-657937ffd236",
+        "images": "avakai.png",
+        "title": "Avakai Pickle",
+        "variants": [
+            {
+                "price": 300.0,
+                "sku": "RB_IN_VP_AVA_450",
+                "store": "IN",
+                "unit": "500 g"
+            },
+            {
+                "price": 550.0,
+                "sku": "RB_IN_VP_AVA_950",
+                "store": "IN",
+                "unit": "1000 g"
+            }
+        ]
+    },
+    {
+        "active": true,
+        "isVeg": true,
+        "categories": [ "All",
+            "Vegetarian Pickles"
+        ],
+        "description": "Magai",
+        "hsn_code": 9621,
+        "id": "1765c158-3ede-4310-976d-657937ffd237",
+        "images": "magai.png",
+        "title": "Magai Pickle",
+        "variants": [
+            {
+                "price": 300.0,
+                "sku": "RB_IN_VP_MAG_450",
+                "store": "IN",
+                "unit": "500 g"
+            },
+            {
+                "price": 550.0,
+                "sku": "RB_IN_VP_MAG_950",
+                "store": "IN",
+                "unit": "1000 g"
+            }
+        ]
+    },
+    {
+        "active": true,
+        "isVeg": true,
+        "categories": [ "All",
+            "Vegetarian Pickles"
+        ],
+        "description": "Tomato",
+        "hsn_code": 9621,
+        "id": "1765c158-3ede-4310-976d-657937ffd238",
+        "images": "tomato.png",
+        "title": "Tomato Pickle",
+        "variants": [
+            {
+                "price": 250.0,
+                "sku": "RB_IN_VP_TOM_450",
+                "store": "IN",
+                "unit": "500 g"
+            },
+            {
+                "price": 450.0,
+                "sku": "RB_IN_VP_TOM_950",
+                "store": "IN",
+                "unit": "1000 g"
+            }
+        ]
+    },
+    {
+        "active": true,
+        "isVeg": true,
+        "categories": [ "All",
+            "Podi"
+        ],
+        "description": "Powder",
+        "hsn_code": 9621,
+        "id": "1765c158-3ede-4310-976d-657937ffd239",
+        "images": "kandi_podi.png",
+        "title": "Kandi Podi",
+        "variants": [
+            {
+                "price": 100.0,
+                "sku": "RB_IN_VP_POD_100",
+                "store": "IN",
+                "unit": "100 g"
+            }
+        ]
+    },
+    {
+        "active": true,
+        "isVeg": true,
+        "categories": [ "All",
+            "Podi"
+        ],
+        "description": "Powder",
+        "hsn_code": 9621,
+        "id": "1765c158-3ede-4310-976d-657937ffd251",
+        "images": "bitter_guard.png",
+        "title": "Kakarakai Podi",
+        "variants": [
+            {
+                "price": 100.0,
+                "sku": "RB_IN_VP_POD_100",
+                "store": "IN",
+                "unit": "100 g"
+            }
+        ]
+    },
+    {
+        "active": true,
+        "isVeg": true,
+        "categories": [ "All",
+            "Podi"
+        ],
+        "description": "Powder",
+        "hsn_code": 9621,
+        "id": "1765c158-3ede-4310-976d-657937ffd251",
+        "images": "curry_leaves.png",
+        "title": "Karvepaku Podi",
+        "variants": [
+            {
+                "price": 100.0,
+                "sku": "RB_IN_VP_POD_100",
+                "store": "IN",
+                "unit": "100 g"
+            }
+        ]
+    },
+    {
+        "active": true,
+        "isVeg": true,
+        "categories": [ "All",
+            "Podi"
+        ],
+        "description": "Powder",
+        "hsn_code": 9621,
+        "id": "1765c158-3ede-4310-976d-657937ffd251",
+        "images": "garlic_chilli.png",
+        "title": "Velluli Karam Podi",
+        "variants": [
+            {
+                "price": 100.0,
+                "sku": "RB_IN_VP_POD_100",
+                "store": "IN",
+                "unit": "100 g"
+            }
+        ]
+    },
+    {
+        "active": true,
+        "isVeg": true,
+        "categories": [ "All",
+            "Podi"
+        ],
+        "description": "Powder",
+        "hsn_code": 9621,
+        "id": "1765c158-3ede-4310-976d-657937ffd251",
+        "images": "sesame_chilli.png",
+        "title": "Nuvvulu Karam Podi",
+        "variants": [
+            {
+                "price": 100.0,
+                "sku": "RB_IN_VP_POD_100",
+                "store": "IN",
+                "unit": "100 g"
+            }
+        ]
+    },
+    {
+        "active": true,
+        "isVeg": false,
+        "categories": [ "All",
+            "Podi"
+        ],
+        "description": "Powder",
+        "hsn_code": 9621,
+        "id": "1765c158-3ede-4310-976d-657937ffd240",
+        "images": "royallu.png",
+        "title": "Enduroyyalu Podi",
+        "list": [
+            "Enduroyyalu"
+        ],
+        "variants": [
+            {
+                "price": 100.0,
+                "sku": "RB_IN_NP_POD_100",
+                "store": "IN",
+                "unit": "100 g"
+            }
+        ]
+    },
+    {
+        "active": false,
+        "isVeg": true,
+        "categories": [ "All",
             "Sweets"
         ],
         "description": "Pootharekulu",
@@ -261,6 +452,75 @@
             "sku": "RB_IN_SW_PTR_200",
             "store": "IN",
             "unit": "10 Pieces"
+        }]
+    },
+    {
+        "active": true,
+        "isVeg": true,
+        "categories": [ "All",
+            "Sweets"
+        ],
+        "description": "Sweets",
+        "hsn_code": 9621,
+        "id": "aff317b0-22a8-4ea5-961b-0b0db92f2ee2",
+        "images": "sweets.jpg",
+        "title": "Sweets",
+        "variants": [{
+            "price": 400.0,
+            "sku": "RB_IN_SW_PTR_500",
+            "store": "IN",
+            "unit": "500 g"
+        },{
+            "price": 900.0,
+            "sku": "RB_IN_SW_PTR_1000",
+            "store": "IN",
+            "unit": "1000 g"
+        }]
+    },
+    {
+        "active": true,
+        "isVeg": true,
+        "categories": [ "All",
+            "Snacks"
+        ],
+        "description": "Snacks",
+        "hsn_code": 9621,
+        "id": "aff317b0-22a8-4ea5-961b-0b0db92f2ee3",
+        "images": "snacks.jpg",
+        "title": "Snacks",
+        "variants": [{
+            "price": 200.0,
+            "sku": "RB_IN_SN_HSN_500",
+            "store": "IN",
+            "unit": "500 g"
+        },{
+            "price": 350.0,
+            "sku": "RB_IN_SN_HSN_1000",
+            "store": "IN",
+            "unit": "1000 g"
+        }]
+    },
+    {
+        "active": true,
+        "isVeg": true,
+        "categories": [ "All",
+            "Ghee"
+        ],
+        "description": "Ghee",
+        "hsn_code": 9621,
+        "id": "aff317b0-22a8-4ea5-961b-0b0db92f2ee4",
+        "images": "ghee.jpg",
+        "title": "Ghee",
+        "variants": [{
+            "price": 400.0,
+            "sku": "RB_IN_GH_GHE_500",
+            "store": "IN",
+            "unit": "500 g"
+        },{
+            "price": 900.0,
+            "sku": "RB_IN_GH_GHE_1000",
+            "store": "IN",
+            "unit": "1000 g"
         }]
     }
 ]
